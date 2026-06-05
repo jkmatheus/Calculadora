@@ -1,8 +1,9 @@
+﻿using System;
 using System.Globalization;
 
 namespace Calculadora
 {
-    class Program
+    class Interface
     {
         public static void Main(string[] args)
         {
